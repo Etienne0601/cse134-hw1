@@ -1,2 +1,2 @@
-# CSE134B-SS20-HW1
+# CSE134B-WI23-HW1
 # Name: Etienne Robin
